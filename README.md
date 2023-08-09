@@ -1,2 +1,2 @@
 # Inheritance_JAVA
-SC inheritance fundamental menggunakan java
+SC inheritance fundamental menghitung keliling,luas bangun menggunakan java
